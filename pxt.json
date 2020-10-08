@@ -1,0 +1,21 @@
+{
+    "name": "test eureka-blocks",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "eureka-blocks": "github:itibanbosi/plottercar_data2#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
